@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1471356716 source:c:\users\huang\desktop\file encryptor\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	"BinaryData.h"
+
+1470454404 source:c:\users\huang\desktop\file encryptor\src\binarydata.cpp
+
+1471357536 c:\users\huang\desktop\file encryptor\include\binarydata.h
+	<cstring>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1471360316 source:g:\20160817surfacebackup\file encryptor\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	"BinaryData.h"
+
+1472254489 g:\20160817surfacebackup\file encryptor\include\binarydata.h
+	<cstring>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1470458004 source:g:\20160817surfacebackup\file encryptor\src\binarydata.cpp
+
